@@ -15,7 +15,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Mohamed Nagdy — UI/UX Designer",
+  title: "Ahmed Nagdy — UI/UX Designer",
   description: "UI/UX and Product Designer Portfolio",
 };
 
